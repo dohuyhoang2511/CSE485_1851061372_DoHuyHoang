@@ -1,5 +1,0 @@
-navbar-toggler : mở div mới 
-navbar-toggler-icon : biểu tượng menu
-hover : chữ chuyển màu khi bấm vào
-diagonal line css background
-nav-bar : Home, About, Education, Skills, Experience, Interest, Contact
